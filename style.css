@@ -1,0 +1,73 @@
+body {
+    height: 1000px;
+
+    margin-top: 50px;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
+nav {
+     background-color: rgba(0, 0, 0, 0.0);
+}
+
+main {
+    background-image: url('../img/Lu_pacman.jpg');
+    background-size: 400px cover;
+    max-height: 850px;
+    padding-top: 100px;
+}
+
+a {
+    color: inherit;
+}
+
+img {
+  width: 700px;
+}
+
+section {
+
+
+}
+
+a {
+  height:50px;
+}
+
+#moi {
+
+    text-align: center;
+    margin: 0 auto;
+    padding: 40px 300px;
+    height: 300px;
+}
+
+#contact-info {
+    padding-left: 700px;
+    color: grey;
+
+}
+
+#ornamental {
+    padding-top: 600px;
+    padding-left: 30px;
+    color: grey;
+    height: 550px;
+}
+
+#About {
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px 20px;
+  background-color: lightgrey;
+}
+
+
+.pull-right {
+    float: right;
+}
+
+.pull-left {
+  float: left;
+}
